@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Secondo branch
 
+=======
+Secondo tentativo
+>>>>>>> dev
 
